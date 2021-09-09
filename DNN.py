@@ -1,5 +1,5 @@
 # Implement Back-Propagation only unsing "numpy" package.
-# Without any automatic dierentiation tools
+# Without any automatic differentiation tools
 
 
 # import module
@@ -191,7 +191,7 @@ for Num in range(10):
     num_list = ([i for i in range(TestSize) if t_digits_t[i] == Num])
     CfMatrix[Num,:] = np.sum(Test_result_label[num_list,:], axis=0)
 
-np.save("CfMatrix.npy", CfMatrix)
+np.save("CfMatrix.npy", CfMatrix)  # save confusion matrix
 
 
 
