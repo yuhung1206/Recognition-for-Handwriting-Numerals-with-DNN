@@ -2,7 +2,7 @@
 Implement DNN &amp; Back-Propagation algorithm with only "Numpy" package.  
 
 To access the dataset, please refer to -> https://github.com/bat67/TibetanMNIST  
-## Overall Structure:  
+## Overall Structure of system:  
  1. Preprocessing : 2D Images --> 1D input data  
  2. Deep Neural Network for Classification : **Back-Propagation** algorithm with **Numpy**
 
