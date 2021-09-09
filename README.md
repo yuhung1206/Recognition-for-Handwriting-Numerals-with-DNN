@@ -15,11 +15,11 @@ To access the dataset, please refer to -> https://github.com/bat67/TibetanMNIST
 ## Deep Neural Network for Classification  
  Introduction of **DNN** please refer to -> https://www.nature.com/articles/nature14539  
  
- - **DNN Forward-propagation **  
+ - **DNN Forward-propagation**  
  
    ![image](https://user-images.githubusercontent.com/78803926/132633461-4dee220a-f276-426c-ae43-dd0d364a225d.png)  
  
- - **Computation for Forward-propagation ** 
+ - **Computation for Forward-propagation** 
  
    ![image](https://user-images.githubusercontent.com/78803926/132633795-b6e7f5e5-43c2-46e3-8b42-d3ba6f70153e.png)  
  
@@ -42,13 +42,13 @@ To access the dataset, please refer to -> https://github.com/bat67/TibetanMNIST
   
   
 ## Experimental Results
-  - Visualization of latent features with different training epoch  
+  - **Visualization of latent features with different training epochs ** 
     ![test](https://user-images.githubusercontent.com/78803926/132639984-b1224fbf-ebdb-41ba-abaa-f6a78d060650.png)
-  - Distribution after **sigmoid** activation function  
+  - **Distribution after sigmoid activation function**  
     ![test](https://user-images.githubusercontent.com/78803926/132641017-0dc7aede-8508-454b-8563-35d2bed5873d.png)
 
     
-  - Confusion Matrix  
+  - **Confusion Matrix**  
     
     
     ![image](https://user-images.githubusercontent.com/78803926/132640598-861b55ae-c25f-4891-9d35-dccbcea6e4ee.png)
