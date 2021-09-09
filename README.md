@@ -13,6 +13,8 @@ To access the dataset, please refer to -> https://github.com/bat67/TibetanMNIST
  
  
 ## Deep Neural Network for Classification  
+ Introduction of **DNN** please refer to -> https://www.nature.com/articles/nature14539  
+ 
  - **DNN Forward-propagation **  
  
    ![image](https://user-images.githubusercontent.com/78803926/132633461-4dee220a-f276-426c-ae43-dd0d364a225d.png)  
@@ -34,15 +36,23 @@ To access the dataset, please refer to -> https://github.com/bat67/TibetanMNIST
 ## Overfitting & Regularization  
   In this project, **Regularization term** is introduced to avoid **Overfitting problem**.  
   Regularization term will impose the penalty when the complexity of DNN model increases.  
-  ![image](https://user-images.githubusercontent.com/78803926/132639005-cbae7b62-0133-4064-b127-5ffee2bb4459.png)
+  ![image](https://user-images.githubusercontent.com/78803926/132639005-cbae7b62-0133-4064-b127-5ffee2bb4459.png)  
+  
+  Details of L1 & L2 Regularization please refer to -> https://iopscience.iop.org/article/10.1088/1742-6596/1168/2/022022
   
   
 ## Experimental Results
   - Visualization of latent features with different training epoch  
     ![test](https://user-images.githubusercontent.com/78803926/132639984-b1224fbf-ebdb-41ba-abaa-f6a78d060650.png)
   - Distribution after **sigmoid** activation function  
- 
-  
+    ![test](https://user-images.githubusercontent.com/78803926/132641017-0dc7aede-8508-454b-8563-35d2bed5873d.png)
+
+    
+  - Confusion Matrix  
+    
+    
+    ![image](https://user-images.githubusercontent.com/78803926/132640598-861b55ae-c25f-4891-9d35-dccbcea6e4ee.png)
+
 
   
 
