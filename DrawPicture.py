@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-path = r"C:\Users\...\DNN"  # alter the loading path!!!
+path = r"C:\Users\...\DNN"  # alter the loading path !!!
 Loss_Error = np.load(path+'\\Error.npy')
 Train_Error = np.load(path+'\\Train_Error.npy')
 Test_Error = np.load(path+'\\Test_Error.npy')
