@@ -13,19 +13,37 @@ To access the dataset, please refer to -> https://github.com/bat67/TibetanMNIST
  
  
 ## Deep Neural Network for Classification  
- - DNN Forward-propagation 
- ![image](https://user-images.githubusercontent.com/78803926/132633461-4dee220a-f276-426c-ae43-dd0d364a225d.png)  
+ - **DNN Forward-propagation **  
  
- - Computation for Forward-propagation
- ![image](https://user-images.githubusercontent.com/78803926/132633795-b6e7f5e5-43c2-46e3-8b42-d3ba6f70153e.png)  
+   ![image](https://user-images.githubusercontent.com/78803926/132633461-4dee220a-f276-426c-ae43-dd0d364a225d.png)  
  
- - DNN Backward-propagation  
-   Update the Weigt Matrix from back 
-   ![test](https://user-images.githubusercontent.com/78803926/132634407-d52d2d07-6d2f-4852-9c7e-d322fe1410c0.png)  
+ - **Computation for Forward-propagation ** 
+ 
+   ![image](https://user-images.githubusercontent.com/78803926/132633795-b6e7f5e5-43c2-46e3-8b42-d3ba6f70153e.png)  
+ 
+ - **DNN Backward-propagation**  
+   Update the Weigt Matrix from back   
    
- - Computation for Forward-propagation  
+   ![image](https://user-images.githubusercontent.com/78803926/132636205-a32e664b-707d-47c1-aef9-5620dfa54b75.png)
+   
+ - **Computation for Backward-propagation**  
+ 
+   ![image](https://user-images.githubusercontent.com/78803926/132636152-1678b346-9398-484f-bc8a-519dbff91edf.png)
 
- - 
+
+## Overfitting & Regularization  
+  In this project, **Regularization term** is introduced to avoid **Overfitting problem**.  
+  Regularization term will impose the penalty when the complexity of DNN model increases.  
+  ![image](https://user-images.githubusercontent.com/78803926/132639005-cbae7b62-0133-4064-b127-5ffee2bb4459.png)
+  
+  
+## Experimental Results
+  - Visualization of latent features with different training epoch  
+    ![test](https://user-images.githubusercontent.com/78803926/132639984-b1224fbf-ebdb-41ba-abaa-f6a78d060650.png)
+  - Distribution after **sigmoid** activation function  
+ 
+  
+
   
 
 
