@@ -1,7 +1,9 @@
 # Recogniztion-for-Handwriting-Numerals
-Implement DNN &amp; Back-Propagation algorithm with only "Numpy" package.  
+Implement DNN &amp; Back-Propagation algorithm with only "Numpy" package.   
 
-To access the dataset, please refer to -> https://github.com/bat67/TibetanMNIST   
+## Dataset:  
+
+The numeral images used in this study is from -> https://github.com/bat67/TibetanMNIST   
   
 
   
