@@ -3,7 +3,7 @@ Implement DNN &amp; Back-Propagation algorithm with only "Numpy" package.
 
 ## Dataset  
 
-The numeral images used in this study is from -> https://github.com/bat67/TibetanMNIST   
+The numeral images used in this study is from :point_right: https://github.com/bat67/TibetanMNIST   
   
 
   
@@ -22,7 +22,7 @@ The numeral images used in this study is from -> https://github.com/bat67/Tibeta
  
  
 ## Deep Neural Network for Classification  
-   Introduction of **DNN** please refer to -> https://www.nature.com/articles/nature14539  
+   Introduction of **DNN** please refer to :point_right: https://www.nature.com/articles/nature14539  
  
  - **DNN Forward-propagation**  
  
@@ -47,7 +47,7 @@ The numeral images used in this study is from -> https://github.com/bat67/Tibeta
   Regularization term will impose the penalty when the complexity of DNN model increases.  
   ![image](https://user-images.githubusercontent.com/78803926/132639005-cbae7b62-0133-4064-b127-5ffee2bb4459.png)  
   
-  Details of L1 & L2 Regularization please refer to -> https://iopscience.iop.org/article/10.1088/1742-6596/1168/2/022022
+  Details of L1 & L2 Regularization please refer to :point_right: https://iopscience.iop.org/article/10.1088/1742-6596/1168/2/022022
   
   
 ## Experimental Results
