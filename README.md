@@ -22,7 +22,7 @@ The numeral images used in this study is from -> https://github.com/bat67/Tibeta
  
  
 ## Deep Neural Network for Classification  
- Introduction of **DNN** please refer to -> https://www.nature.com/articles/nature14539  
+   Introduction of **DNN** please refer to -> https://www.nature.com/articles/nature14539  
  
  - **DNN Forward-propagation**  
  
