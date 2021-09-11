@@ -1,13 +1,13 @@
 # Recogniztion-for-Handwriting-Numerals
 Implement DNN &amp; Back-Propagation algorithm with only "Numpy" package.   
 
-## Dataset:  
+## Dataset  
 
 The numeral images used in this study is from -> https://github.com/bat67/TibetanMNIST   
   
 
   
-## Execution & Overall Structure of system:  
+## Execution & Overall Structure of system  
  1. Preprocessing : 2D Images --> 1D input data  
  2. Deep Neural Network for Classification : **Back-Propagation** algorithm with **Numpy**  
 
