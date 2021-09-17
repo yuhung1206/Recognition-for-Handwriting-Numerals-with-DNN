@@ -1,5 +1,5 @@
 # Recognition-for-Handwriting-Numerals
-Implement DNN &amp; Back-Propagation algorithm with only "Numpy" package.   
+Implement DNN &amp; Back-Propagation algorithm with only **"Numpy"** package.   
 
 ## Dataset  
 
